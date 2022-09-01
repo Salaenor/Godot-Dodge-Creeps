@@ -1,0 +1,8 @@
+/home/shinkle/Dodge the Creeps/.mono/temp/bin/Debug/Dodge the Creeps.dll
+/home/shinkle/Dodge the Creeps/.mono/temp/bin/Debug/Dodge the Creeps.pdb
+/home/shinkle/Dodge the Creeps/.mono/temp/obj/Debug/Dodge the Creeps.csproj.AssemblyReference.cache
+/home/shinkle/Dodge the Creeps/.mono/temp/obj/Debug/Dodge the Creeps.AssemblyInfoInputs.cache
+/home/shinkle/Dodge the Creeps/.mono/temp/obj/Debug/Dodge the Creeps.AssemblyInfo.cs
+/home/shinkle/Dodge the Creeps/.mono/temp/obj/Debug/Dodge the Creeps.csproj.CoreCompileInputs.cache
+/home/shinkle/Dodge the Creeps/.mono/temp/obj/Debug/Dodge the Creeps.dll
+/home/shinkle/Dodge the Creeps/.mono/temp/obj/Debug/Dodge the Creeps.pdb
